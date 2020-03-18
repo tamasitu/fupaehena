@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ueshahrae.austinrobertsmusic.com/sitemap.xml
